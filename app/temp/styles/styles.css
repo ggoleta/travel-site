@@ -341,6 +341,11 @@ template {
   display: none;
 }
 
+/*
+    Tips: Não devemos poluir nosso escopo global
+    só o essencial, mesmo!
+*/
+
 body {
     font-family: 'Roboto', sans-serif;
     color: #333;
